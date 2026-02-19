@@ -1,4 +1,20 @@
 theme: jekyll-theme-minimal
-title: Junwen Gong(龚俊文)
-description: Personal Blog | Multimodal AI | Computer Vision
+title: Personal Blog
+
+# 网站的详细描述 (Description)
+description: Exploring Multimodal AI and Computer Vision.
 logo: /profile.jpg
+
+# ==========================================
+# 社交链接与额外配置 (Social & Extras)
+# minimal 主题原生支持自动生成底部链接
+# ==========================================
+
+# 填入你的 GitHub 用户名，主题会自动在网页底部生成一个指向你开源主页的链接图标
+github_username: xingong6880
+
+# （可选配置）如果你希望别人能通过邮件联系你交流学术，可以取消下面这行的注释（删掉开头的 # 号）并填入你的邮箱
+email: xingong6880@gmail.com
+
+# （可选配置）可以设置网页底部的版权年份和姓名
+footer: © 2026 Junwen Gong. All rights reserved.
