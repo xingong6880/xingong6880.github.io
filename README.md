@@ -2,7 +2,8 @@
 
 Welcome to the source code repository of my personal website and digital garden. 
 
-This website is powered by **Jekyll** and hosted on **GitHub Pages**. It serves as a space to document my research journey in Artificial Intelligence, specifically focusing on:
+This website is powered by **Jekyll** and hosted on **GitHub Pages**.
+It serves as a space to document my research journey in Artificial Intelligence, specifically focusing on:
 
 * **Multimodal Learning**
 * **Computer Vision**
