@@ -1,22 +1,16 @@
 # ==========================================
 # 官方 minima 主题配置
 # ==========================================
-
 theme: minima
 
-# 你的网站主标题
-title: Personal Blog
+title: Junwen Gong
 
-# 网站的详细描述
+# 网站的详细描述（显示在右下角，这部分保持不变）
 description: Exploring Multimodal AI and Computer Vision.
 
+# 你的头像路径（保持不变）
 logo: /profile.jpg
 
-# 填入你的 GitHub 用户名，主题会自动在网页底部生成 GitHub 图标
+# 社交链接（保持不变）
 github_username: xingong6880
-
-# 填入你的邮箱，主题会自动在网页底部生成 Email 邮件图标
 email: xingong6880@gmail.com
-
-# 版权声明
-footer: © 2026 Junwen Gong. All rights reserved.
