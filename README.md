@@ -1,18 +1,10 @@
-# Junwen Gong(龚俊文)
+# Junwen Gong's Personal Blog
 
-Research Interests:
-- Multimodal Learning
-- Computer Vision
+Welcome to the source code repository of my personal website and digital garden. 
 
----
+This website is powered by **Jekyll** and hosted on **GitHub Pages**. It serves as a space to document my research journey in Artificial Intelligence, specifically focusing on:
 
-## About Me
-
-I am interested in multimodal learning and computer vision.
-
----
-
-## Contact
-
-Email: xingong6880@gmail.com
-GitHub: https://github.com/xingong6880
+* **Multimodal Learning**
+* **Computer Vision**
+* My study notes and code implementations.
+You can visit the live website here: [https://xingong6880.github.io/](https://xingong6880.github.io/)
