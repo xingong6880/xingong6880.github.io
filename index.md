@@ -17,7 +17,7 @@ title: ""
       display: none !important; 
   }
   
-  .feed-subscribe {
+  .rss-subscribe {
       display: none !important;
   }
 </style>
