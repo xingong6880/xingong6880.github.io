@@ -8,13 +8,13 @@
 layout: post
 
 # title: 这是显示在你主页列表和网页浏览器标签上的【正式标题】
-title:  "Dive into Deep Learning (D2L) 学习笔记 01：基础概念"
+title:  "Dive into Deep Learning (D2L) Notes"
 
 # date: 告诉系统这篇文章的发布时间。格式必须严格。最后的 +0800 代表北京时间。
-date:   2026-02-19 20:00:00 +0800
+date:   2026-02-20 10:00:00 +0800
 
 # categories: 给你的文章打上分类标签，方便以后文章多了进行管理
-categories: d2l deep-learning
+categories: d2l
 ---
 
 ## 1. 为什么系统学习 D2L 很重要？
