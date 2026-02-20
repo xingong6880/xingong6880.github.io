@@ -14,6 +14,8 @@ title: Publications
 permalink: /publications/
 ---
 
+# still 0 paper
+<!--
 ## 2026
 
 * **[这里写你的第一篇论文的精炼标题]**
@@ -35,3 +37,4 @@ permalink: /publications/
   *Submitted to arXiv, 2025.*
   <br>
   [[PDF]](链接) &nbsp; [[Code]](链接)
+-->
